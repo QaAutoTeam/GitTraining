@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="f0997a1c-dc9e-40cf-b798-d09310ca67c4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
+=======
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,8 +20,13 @@
       <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="68">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+=======
+            <state>
+              <caret column="21" selection-start-column="21" selection-end-column="21" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -96,7 +105,21 @@
       <option name="project" value="LOCAL" />
       <updated>1560931103302</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1560932039526</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560932039526</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Merge branch 'master' of https://github.com/QaAutoTeam/GitTraining&#10;&#10;# Conflicts:&#10;#&#9;test.py">
+      <created>1560932124326</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560932124326</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -137,7 +160,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/QaAutoTeam/GitTraining&#10;&#10;# Conflicts:&#10;#&#9;test.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/QaAutoTeam/GitTraining&#10;&#10;# Conflicts:&#10;#&#9;test.py" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test.py">
@@ -160,6 +184,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
+<<<<<<< Updated upstream
         </state>
       </provider>
     </entry>
@@ -183,6 +208,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+=======
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>

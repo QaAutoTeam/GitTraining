@@ -1,2 +1,3 @@
-hi all - new branch 
-hi all - new branch 
+hi all - before stash
+hi all - new branch
+
